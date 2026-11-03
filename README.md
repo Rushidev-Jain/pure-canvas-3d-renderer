@@ -2,6 +2,8 @@
 
 A browser based 3D simulation experiment built from scratch with JavaScript and HTML Canvas. This project is a sprint exploration of projection, gravity, collision, and friction in a minimal setup without OpenGL or external graphics libraries or dlls.
 
+```published on 11th July : 6 contributions [reuploaded repository]```
+
 ## Demo
 
 - [Here is the Demo video.](https://github.com/user-attachments/assets/4c0b05b8-4ac2-428b-9f0a-97557bf92948)
